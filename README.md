@@ -1,6 +1,6 @@
 # CLI-программа для решения вариантов ЕГЭ и ОГЭ с сайта sdamgia.ru
 
-![License](https://img.shields.io/github/license/your-username/cli-sdamgia)
+![License](https://img.shields.io/github/license/dmhd6219/sdamgia-solver)
 ![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
 ![Version](https://img.shields.io/badge/version-1.0-green)
 
