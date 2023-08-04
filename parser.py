@@ -64,7 +64,7 @@ class Solver:
             if "Впишите ответ на задание в поле выше или загрузите его" in taskHTML.parent.parent.text or \
                     "Решения заданий с развернутым ответом" in taskHTML.parent.parent.text:
                 task.solutionLink = True
-            # task.solutionLink = True
+
             tasks.append(task)
         return tasks
 
@@ -117,6 +117,7 @@ def main():
             solver.get_answer(task)
         print("{}{}. {}{}".format(Fore.WHITE, task_num, Fore.YELLOW, task.answer))
     print("Готово")
+    input()
 
 
 if __name__ == '__main__':
