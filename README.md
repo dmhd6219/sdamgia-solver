@@ -4,7 +4,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
 ![Version](https://img.shields.io/badge/version-1.0-green)
 
-Этот инструмент поможет вам ускорить решение вариантов ЕГЭ и ОГЭ с популярного сайта [sdamgia.ru](https://sdamgia.ru/).
+Этот инструмент поможет вам ускорить решение вариантов ЕГЭ и ОГЭ с популярного сайта [sdamgia.ru](https://sdamgia.ru/) (он же - РешуЕГЭ, РешуОГЭ).
 
 ## Установка
 
