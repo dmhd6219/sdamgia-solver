@@ -3,6 +3,7 @@
 ![License](https://img.shields.io/github/license/dmhd6219/sdamgia-solver)
 ![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
 ![Version](https://img.shields.io/badge/version-1.0-green)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
 Этот инструмент поможет вам ускорить решение вариантов ЕГЭ и ОГЭ с популярного сайта [sdamgia.ru](https://sdamgia.ru/) (он же - РешуЕГЭ, РешуОГЭ).
 
